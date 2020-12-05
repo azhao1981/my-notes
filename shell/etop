@@ -1,0 +1,10 @@
+#!/bin/bash
+EJABBERD_DIR=/srv/ejabberd-16.01
+ETOP_DIR=/usr/lib/erlang/lib/observer-1.3.1.2
+COOKIE=`cat $EJABBERD_DIR/.erlang.cookie`
+ETOP=$ETOP_DIR/priv/bin/etop
+ETOPPATH=$ETOP_DIR/ebin/
+
+$ETOP -pa $ETOPPATH \
+    -setcookie $COOKIE \
+    -node ejabberd@localhost

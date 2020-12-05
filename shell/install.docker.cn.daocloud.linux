@@ -1,0 +1,14 @@
+#!/bin/bash
+# 参考 : <https://get.daocloud.io/>
+curl -sSL https://get.daocloud.io/docker-experimental | sh
+
+sudo apt install git -y
+sudo mkdir -p /etc/docker
+sudo tee /etc/docker/daemon.json <<-'EOF'
+{
+  "registry-mirrors": ["http://f1361db2.m.daocloud.io", "http://hub-mirror.c.163.com"]
+}
+EOF
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+

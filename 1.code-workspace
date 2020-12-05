@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/weizhao/udesk/work"
+		},
+		{
+			"path": "/Users/weizhao/dev/mydev/IBAndW.github.io"
+		}
+	],
+	"settings": {
+		"ruby.rubocop.executePath": "/Users/weizhao/.rbenv/shims/",
+		"ruby.rubocop.configFilePath": "/Users/weizhao/.rubocop.yml",
+		"ruby.rubocop.onSave": true
+	}
+}

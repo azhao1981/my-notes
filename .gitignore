@@ -1,0 +1,15 @@
+/tmp/
+.DS_Store
+tmp
+node_modules
+udesk_share
+my-roadmap
+work
+doc/have-fun-with-machine-learning
+my-spider
+.vscode
+redis_tools/*
+src/react
+bak
+*_tmp
+sec/data/

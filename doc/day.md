@@ -420,9 +420,6 @@ https://blog.csdn.net/jayjaydream/article/details/89143274
 Sherloq：一款开源的数字图片取证工具
 https://www.freebuf.com/sectool/233682.html
 
-统一安全管控之密钥管理KMS
-https://www.freebuf.com/articles/es/229311.html
-
 Vulnhub | Social Network 渗透靶机
 https://www.anquanke.com/post/id/204066
 
@@ -492,8 +489,7 @@ https://book.hacktricks.xyz/pentesting/6379-pentesting-redis
 
 https://github.com/JoyChou93/hackredis
 
-Jeopardize：一款针对钓鱼域名的低功耗威胁情报&响应工具
-https://www.freebuf.com/sectool/231977.html
+
 
 代码审计——Semcms
 https://www.anquanke.com/post/id/203765
@@ -790,8 +786,7 @@ https://twitter.com/echomoakwara/status/1249031372125208587
 Sandboxie现在可以作为开源工具使用
 https://twitter.com/fadi_codesco/status/1248864706581929990
 
-用于网络威胁情报查找的浏览器插件
-https://twitter.com/Peerlyst/status/1248987946059005952
+
 
 Extended ssrf search：一款功能强大的SSRF智能漏洞扫描工具
 https://www.freebuf.com/sectool/228925.html
@@ -1458,12 +1453,12 @@ https://www.freebuf.com/news/228459.html
 迪卡侬数据库泄露了1.23亿员工的数据
 
 4.Chrome 80的更新打击了顶级网络犯罪市场
-Google Chrome 80浏览器的微小变化对当今的顶级网络犯罪市场之一Genesis Store造成了毁灭性的影响。根据威胁情报公司KELA的研究，Genesis Store正在经历一个艰难的时期，该站点上出售的凭证数量下降了35％。[外刊-阅读原文]
+Google Chrome 80浏览器的微小变化对当今的顶级网络犯罪市场之一Genesis Store造成了毁灭性的影响。
+根据威胁情报公司KELA的研究，Genesis Store正在经历一个艰难的时期，该站点上出售的凭证数量下降了35％。[外刊-阅读原文]
 [Genesis Store](https://www.zdnet.com/article/chrome-80-update-cripples-top-cybercrime-marketplace/)
 
 5.黑客在PayPal的Google Pay集成中发现漏洞 进行未经授权的付款
 近日黑客在PayPal的Google Pay集成中发现了一个漏洞，现在正使用它通过PayPal帐户进行未经授权的交易。自上周五以来，用户报告称在其PayPal历史中突然出现了源自其Google Pay帐户的神秘交易。[阅读原文]
-
 
 
 
@@ -3976,8 +3971,7 @@ https://blog.csdn.net/jayjaydream/article/details/89143274
 Sherloq：一款开源的数字图片取证工具
 https://www.freebuf.com/sectool/233682.html
 
-统一安全管控之密钥管理KMS
-https://www.freebuf.com/articles/es/229311.html
+
 
 Vulnhub | Social Network 渗透靶机
 https://www.anquanke.com/post/id/204066
@@ -4048,8 +4042,7 @@ https://book.hacktricks.xyz/pentesting/6379-pentesting-redis
 
 https://github.com/JoyChou93/hackredis
 
-Jeopardize：一款针对钓鱼域名的低功耗威胁情报&响应工具
-https://www.freebuf.com/sectool/231977.html
+
 
 代码审计——Semcms
 https://www.anquanke.com/post/id/203765
@@ -4347,8 +4340,7 @@ https://twitter.com/echomoakwara/status/1249031372125208587
 Sandboxie现在可以作为开源工具使用
 https://twitter.com/fadi_codesco/status/1248864706581929990
 
-用于网络威胁情报查找的浏览器插件
-https://twitter.com/Peerlyst/status/1248987946059005952
+
 
 Extended ssrf search：一款功能强大的SSRF智能漏洞扫描工具
 https://www.freebuf.com/sectool/228925.html
@@ -5013,14 +5005,6 @@ https://www.freebuf.com/articles/system/227678.html
 FreeBuf早报 
 https://www.freebuf.com/news/228459.html
 迪卡侬数据库泄露了1.23亿员工的数据
-
-4.Chrome 80的更新打击了顶级网络犯罪市场
-Google Chrome 80浏览器的微小变化对当今的顶级网络犯罪市场之一Genesis Store造成了毁灭性的影响。根据威胁情报公司KELA的研究，Genesis Store正在经历一个艰难的时期，该站点上出售的凭证数量下降了35％。[外刊-阅读原文]
-[Genesis Store](https://www.zdnet.com/article/chrome-80-update-cripples-top-cybercrime-marketplace/)
-
-5.黑客在PayPal的Google Pay集成中发现漏洞 进行未经授权的付款
-近日黑客在PayPal的Google Pay集成中发现了一个漏洞，现在正使用它通过PayPal帐户进行未经授权的交易。自上周五以来，用户报告称在其PayPal历史中突然出现了源自其Google Pay帐户的神秘交易。[阅读原文]
-
 
 
 Pytm：一款Python风格的威胁建模框架 | 工具,威胁建模

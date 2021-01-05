@@ -31,10 +31,12 @@ https://blog.csdn.net/orangleliu/article/details/51994513
 curl ipinfo.io 不准,上海腾讯云认为北京
 
 下面都比较准
-curl https://ip.cn
 curl cip.cc
 curl myip.ipip.net
 curl http://members.3322.org/dyndns/getip
+
+这个可能已经不能用了
+curl https://ip.cn
 
 ## service
 
